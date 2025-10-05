@@ -3,11 +3,10 @@
 
 
 ## 🤖 About Me
-- 💡 백엔드 개발을 중심으로 **Spring Boot, JPA, Docker, MSA** 경험 보유
+- 💡 백엔드 개발을 중심으로 **Spring Boot, JPA, Docker, MSA** 경험
 - 📈 꾸준히 학습하며 성장하는 개발자
 - 🛠️ 실제 프로젝트를 통해 **CI/CD, 클라우드 배포** 경험
 - 🌱 현재는 **Java, 모니터링, SpringBatch, 대규모 서비스 아키텍처**에 관심
-- 🤝 협업과 책임감을 바탕으로 끝까지 완수하는 개발자
 
 <br>
 
