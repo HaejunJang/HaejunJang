@@ -37,8 +37,8 @@
 <br>
 
 ## 📚 Study Repositories
-- 📌 [JavaORM-standard(JPA 공부)](https://github.com/HaejunJang/jpa-orm-standard)
-- 📌 [알고리즘 풀이 기록](https://github.com/HaejunJang/Algorithm)
+-  [JavaORM-standard(JPA 공부)](https://github.com/HaejunJang/jpa-orm-standard)
+-  [알고리즘 풀이 기록](https://github.com/HaejunJang/Algorithm)
 
 <br>
 
