@@ -1,26 +1,48 @@
-<!-- Header 이미지 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Haejun's%20Github)
+# 🙋🏻 안녕하세요, 책임감을 바탕으로 성장하는 개발자 장해준입니다.
 
-## 📚 Study
 
-### Backend
+
+## 🤖 About Me
+- 💡 백엔드 개발을 중심으로 **Spring Boot, JPA, Docker, MSA** 경험 보유
+- 📈 꾸준히 학습하며 성장하는 개발자
+- 🛠️ 실제 프로젝트를 통해 **CI/CD, 클라우드 배포** 경험
+- 🌱 현재는 **Java, 모니터링, SpringBatch, 대규모 서비스 아키텍처**에 관심
+- 🤝 협업과 책임감을 바탕으로 끝까지 완수하는 개발자
+
+<br>
+
+## 🏆 Achievement / Experience
+- **카카오 엔터프라이즈 SW아카데미** *(2024.09 ~ 2025.02)*
+- **SQLD 자격증 취득** *(2025.06)
+- **신한DS SW아카데미** *(2025.04 ~ 2025.10)*
+  - 🏆개인부문 최우수상
+  - 🏆팀부문 최우수상
+
+<br>
+
+## 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-Security&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,java,spring,hibernate,mysql,redis,aws,linux,jenkins,githubactions,nginx,docker,grafana,prometheus" />
+  </a>
 </p>
 
-### Infra
-<p align="left">
-  <img src="https://img.shields.io/badge/Kakao%20Cloud-FFCD00?style=flat&logo=kakao&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-</p>
+<br>
 
-## 📌 Project
+## 📂 Projects
+- [AirBnG (짐 보관 플랫폼)](https://github.com/shinhanDsActeam/AirBnG)
+- [Tikitaka (사내 TMS 시스템)](https://github.com/HaejunJang/Tikitaka-BE)
+- [Sqace (협업 워크스페이스 플랫폼)](https://github.com/HaejunJang/Sqace-BE)
 
-## 🎓 Education
-- 가천대 카카오엔터프라이즈 SW아카데미 (2024.09 ~ 2025.02)
+<br>
+
+## 📚 Study Repositories
+- 📌 [JavaORM-standard(JPA 공부)](https://github.com/HaejunJang/jpa-orm-standard)
+- 📌 [알고리즘 풀이 기록](https://github.com/HaejunJang/Algorithm)
+
+<br>
+
+## 📈 GitHub Stats
+![Haejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaejunJang&show_icons=true&title_color=4561DB&text_color=2d2d2d&icon_color=4561DB&bg_color=30,ffffff,f5f0dc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaejunJang&layout=compact&title_color=4561DB&text_color=2d2d2d&bg_color=30,f5f0dc,ffffff)
+
