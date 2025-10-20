@@ -36,12 +36,12 @@
 <br>
 
 ## 📚 Study Repositories
+-  [스레드와 동시성(Java 공부)](https://github.com/HaejunJang/java-study-adv1)
 -  [JavaORM-standard(JPA 공부)](https://github.com/HaejunJang/jpa-orm-standard)
 -  [알고리즘 풀이 기록](https://github.com/HaejunJang/Algorithm)
 
 <br>
 
 ## 📈 GitHub Stats
-![Haejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaejunJang&show_icons=true&title_color=4561DB&text_color=2d2d2d&icon_color=4561DB&bg_color=30,ffffff,f5f0dc)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaejunJang&layout=compact&title_color=4561DB&text_color=2d2d2d&bg_color=30,f5f0dc,ffffff)
 
