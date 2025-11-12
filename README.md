@@ -36,9 +36,10 @@
 <br>
 
 ## 📚 Study Repositories
--  [스레드와 동시성(Java 공부)](https://github.com/HaejunJang/java-study-adv1)
--  [JavaORM-standard(JPA 공부)](https://github.com/HaejunJang/jpa-orm-standard)
--  [알고리즘 풀이 기록](https://github.com/HaejunJang/Algorithm)
+- [java-thread-concurrency (스레드와 동시성 학습)](https://github.com/HaejunJang/java-study-adv1)
+- [jpa-orm-standard (JPA 표준 학습)](https://github.com/HaejunJang/jpa-orm-standard)
+- [clean-architecture (클린 아키텍처 학습)](https://github.com/HaejunJang/clean-architecture)
+- [algorithm-study (알고리즘 풀이 기록)](https://github.com/HaejunJang/Algorithm)
 
 <br>
 
